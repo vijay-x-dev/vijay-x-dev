@@ -40,11 +40,6 @@ Passionate full stack developer from India, dedicated to crafting innovative web
 ### 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-vijay-05&theme=radical)
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-vijay-39baa5257/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/k_vijay)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/210hg/)
-
 ### 📧 Contact
 **Email:** kvijay20204567@gmail.com
 
