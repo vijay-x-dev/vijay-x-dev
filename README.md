@@ -43,7 +43,7 @@ Advanced TypeScript Techniques
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-vijay-05&theme=radical)
 
 ### 📧 Contact
-**Email:** kvijay20204567@gmail.com
+**Email:** vijayk85845@gmail.com
 
 ---
 *Continuously learning, building, and exploring the world of technology* ✨
