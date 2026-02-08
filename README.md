@@ -40,7 +40,7 @@ Passionate full stack developer from India, dedicated to crafting innovative web
 Advanced TypeScript Techniques
 
 ### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-vijay-05&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijay-x-dev&theme=radical)
 
 ### 📧 Contact
 **Email:** vijayk85845@gmail.com
